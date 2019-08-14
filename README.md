@@ -11,3 +11,6 @@ Aulas já ministradas:
 - [Dicionários e Tuplas](https://drive.google.com/open?id=1fh0u4BCDKNd42RYPNtuXamzz7yScaTEJK_q9Ak95hX8)
 - [Strings](https://drive.google.com/open?id=13ozADwt8vxu3Qm6nlJHGXOAI7B-_Oa6z3-8fCAzGGLI)
 - [Boas Práticas](https://drive.google.com/open?id=1vfTteEHI18f6se4MWTqx3gYKMIY7aI2aU3tlKGh_-Pg)
+- [Ambiente de Desenvolvimento](https://drive.google.com/open?id=1bfsAIBRP9C5CKmuaC0HtC9Sei6Z0kNCx5REw3Uwents)
+- [Introdução a Django](https://drive.google.com/open?id=1lU0Fzp6MjqOVMykVCwTtk5rS4QNwgX8DHciBf4dJQGc)
+- [Banco de Dados](https://drive.google.com/open?id=1QemTT5PrPbdgVg5iMuvRtMORkiHgW_LvhT5Qm9VLjag)
