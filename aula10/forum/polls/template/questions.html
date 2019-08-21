@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Como fazer um Bolo?</title>
+</head>
+
+<body>
+	{% for question in questions %}
+		<h1><strong>{{question.question_text}}</strong></h1>
+		{% for choice in question.choices %}
+			<h2>{{choice.choice_text}}</h2>
+		{% endfor %}
+	{% endfor %}
+</body>
+
+</html>
