@@ -16,3 +16,5 @@ Aulas já ministradas:
 - [Banco de Dados](https://drive.google.com/open?id=1QemTT5PrPbdgVg5iMuvRtMORkiHgW_LvhT5Qm9VLjag)
 - [Protocolo HTTP](https://docs.google.com/presentation/d/1M8O7AJXF6WRisljoDtN9ZOflPirpuCrDlbfw3k8dxZY/edit?usp=sharing)
 - [API](https://docs.google.com/presentation/d/1d5bUNGL6TerHp3IzwLUrfk_zijYN-uHXQxQ58yAuCmA/edit?usp=sharing)
+- [Jupyter e Conda](https://drive.google.com/open?id=1NpLmCvEWwfV30K80tdEDRo2QABrP8Eo3nEn2ib8QlLg)
+
